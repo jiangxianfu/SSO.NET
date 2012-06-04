@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSOClientSDK", "SSOClientSDK\SSOClientSDK.csproj", "{BC2C55E2-51A3-4B5A-B301-CF0181276883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSOServerLibrary", "SSOServerLibrary\SSOServerLibrary.csproj", "{277CF3DA-6EBA-477C-B35B-F2249BC176D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSOServerWeb", "SSOServerWeb\SSOServerWeb.csproj", "{894A79E9-05C5-4473-87F7-3968FF8D3E59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSOClientWeb", "SSOClientWeb\SSOClientWeb.csproj", "{EB69F328-E84E-42D5-A28E-8B4015AF1673}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC2C55E2-51A3-4B5A-B301-CF0181276883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2C55E2-51A3-4B5A-B301-CF0181276883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2C55E2-51A3-4B5A-B301-CF0181276883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2C55E2-51A3-4B5A-B301-CF0181276883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{277CF3DA-6EBA-477C-B35B-F2249BC176D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277CF3DA-6EBA-477C-B35B-F2249BC176D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277CF3DA-6EBA-477C-B35B-F2249BC176D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277CF3DA-6EBA-477C-B35B-F2249BC176D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894A79E9-05C5-4473-87F7-3968FF8D3E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894A79E9-05C5-4473-87F7-3968FF8D3E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894A79E9-05C5-4473-87F7-3968FF8D3E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894A79E9-05C5-4473-87F7-3968FF8D3E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB69F328-E84E-42D5-A28E-8B4015AF1673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB69F328-E84E-42D5-A28E-8B4015AF1673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB69F328-E84E-42D5-A28E-8B4015AF1673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB69F328-E84E-42D5-A28E-8B4015AF1673}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
