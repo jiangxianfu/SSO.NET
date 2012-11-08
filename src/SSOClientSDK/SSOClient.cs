@@ -6,6 +6,9 @@ using System.Web;
 
 namespace SSOClientSDK
 {
+    /// <summary>
+    /// 客户端代码
+    /// </summary>
     public class SSOClient : ISSOClient
     {
         HttpContext current = HttpContext.Current;
